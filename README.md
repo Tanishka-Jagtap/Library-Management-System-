@@ -5,16 +5,27 @@
 # Features 
 
 - **Display All Books** - Display all books in the library organized by racks and shelves.
+  
 - **Insert a Book** - Add a new book to the library, specifying the book's name, author, and category.
+
 - **Delete a Book** - Remove a book from the library based on its name and author.
+
 - **Search Book By Name** - Search for a book in the library based on its name and display relevant information.
+
 - **Issue Book** - Allow users to borrow a book by specifying their username and the book's name and author.
+
 - **Return Book** - Enable users to return a borrowed book by specifying their username and the book's name.
+
 - **Display Issued Books** - Display a list of books that have been issued to users.
+
 - **Auto-Generated Book IDs** - Automatically generate unique book IDs based on book names.
+
 - **Book Categorization** - Categorize books into different genres or categories for easier organization.
+
 - **User Management** - Create and manage user accounts, associating each user with their borrowed books.
+
 - **Library Data Initialization** - Load initial library data from a file to populate the system with book information.
+
 - **Efficient Data Structures** - Utilize data structures like Binary Search Trees (BSTs) and Queues to optimize data storage and retrieval.
 
 # Usage
@@ -36,12 +47,19 @@
 # Menu Options
 
 1. **Display All Books** - Allows the user to display all books stored in the library, organized by racks and shelves.
+
 2. **Insert a Book** - Enables the user to add a new book to the library by providing the book's name, author, and selecting the appropriate category.
+
 3. **Delete a Book** - Allows the user to remove a book from the library by providing the book's name and author.
+
 4. **Search Book By Name** - Enables the user to search for a book by providing its name. It displays book information if found.
+
 5. **Issue Book** - Allows the user to borrow a book by providing their name, the book's name, and the author's name.
+
 6. **Return Book** - Allows the user to return a previously borrowed book by providing their name and the book's name.
+
 7. **Display Issued Books** - Displays a list of issued books along with the corresponding user information.
+
 8. **Exit** - Allows the user to exit the program and close the application.
 
 # Usage
@@ -632,4 +650,13 @@ Book returned successfully!
 
 Select an option : 0
 ```
+
+# Contribution
+
+[Tanishka Jagtap](https://github.com/Tanishka-Jagtap)
+[Atharv Joshi]
+[Palash Joshi]
+[Arushi Kadam]
+[Sai Kadam](https://github.com/Saikadam123)
+
 
