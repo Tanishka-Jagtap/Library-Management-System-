@@ -653,10 +653,10 @@ Select an option : 0
 
 # Contribution
 
-[Tanishka Jagtap](https://github.com/Tanishka-Jagtap)
-[Atharv Joshi]
-[Palash Joshi]
-[Arushi Kadam]
-[Sai Kadam](https://github.com/Saikadam123)
+- [Tanishka Jagtap](https://github.com/Tanishka-Jagtap)
+- [Atharv Joshi]
+- [Palash Joshi](https://github.com/palash27114)
+- [Arushi Kadam]
+- [Sai Kadam](https://github.com/Saikadam123)
 
 
