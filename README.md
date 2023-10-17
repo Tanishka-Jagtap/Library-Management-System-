@@ -654,9 +654,9 @@ Select an option : 0
 # Contribution
 
 - [Tanishka Jagtap](https://github.com/Tanishka-Jagtap)
-- [Atharv Joshi]
+- [Atharv Joshi](https://github.com/AGJoshi99)
 - [Palash Joshi](https://github.com/palash27114)
-- [Arushi Kadam]
+- [Arushi Kadam](https://github.com/arushiii17)
 - [Sai Kadam](https://github.com/Saikadam123)
 
 
